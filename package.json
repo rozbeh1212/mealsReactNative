@@ -8,16 +8,22 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^34.0.0",
-    "expo-font": "~6.0.1",
-    "react": "16.8.3",
-    "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-44.0.0.tar.gz",
-    "react-native-web": "^0.11.4",
-    "react-navigation": "^3.13.0"
+    "@expo/vector-icons": "^12.0.0",
+    "expo": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "^0.67.4",
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-paper": "^4.11.2",
+    "react-native-reanimated": "~2.3.1",
+    "react-native-screens": "~3.10.1",
+    "react-native-web": "0.17.1",
+    "react-navigation": "^3.11.1",
+    "react-navigation-header-buttons": "^3.0.1",
+    "react-navigation-material-bottom-tabs": "^2.3.5"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.1.1"
+    "babel-preset-expo": "9.0.2"
   },
   "private": true
 }
